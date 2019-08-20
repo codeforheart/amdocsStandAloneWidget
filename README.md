@@ -1,0 +1,2 @@
+# amdocsStandAloneWidget
+amdocsStandAloneWidget
